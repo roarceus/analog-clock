@@ -143,11 +143,6 @@ button {
   color: #fff;
   transition: 1s ease-in-out;
 }
-.dark-mode-hand {
-  background-color: #fff;
-  border: 1px solid #000;
-  transition: 1s ease-in-out;
-}
 
 .morning {
   background-image: url(https://i.pinimg.com/originals/85/de/c9/85dec98c48f37b93f62c37f9bbe1b1a6.jpg);
